@@ -1,15 +1,15 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: 我的新博客
+author: 昕-2008
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
+第一次知道博客这个词，是在上高中的时候在公共汽车上别人聊天时无意中听到的。
 
-## The Eternal Lorem Ipsum? 
------
+上大学的时候开始建立了自己的博客，最早是在网易博客上写，主要是记录一些自己的所思所想。毕业后转移到了新浪博客，一开始主要也是以记录生活中的见闻、所思所想为主。但后来随着工作年限的增加，越来越多的开始在博客中记录自己在工作中遇到的问题和解决方案，学习笔记等，所以我的博客越来越像一个技术博客了。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+由于新浪博客上不太容易编辑代码和数学公式，所以很久之前就有了重新开一个博客的想法。今天终于尝试了一下，于是就有了这个新的博客。
 
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
+非常感谢[新浪博客](http://blog.sina.com.cn/iambear1988)这六年多的陪伴。
 
+2016年9月29日晚 于秋月路26号
